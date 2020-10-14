@@ -1,4 +1,4 @@
-# Flight Fare Prediction: 
+# Flight Price Prediction: 
 
 ## Table of Content
   * [Demo](#demo)
@@ -10,7 +10,7 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+Link:
 
 
 ## Overview
